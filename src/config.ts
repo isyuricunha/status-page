@@ -38,6 +38,48 @@ export const config: Config = {
       description: 'YouTube Downloader',
       followRedirect: true,
     },
+    {
+      id: 'umami.yuricunha.com',
+      url: 'https://umami.yuricunha.com',
+      description: 'Privacy Analytcs',
+      followRedirect: true,
+    },
+    {
+      id: 'ittools.yuricunha.com',
+      url: 'https://ittools.yuricunha.com',
+      description: 'IT Tools',
+      followRedirect: true,
+    },
+    {
+      id: 'privatebin.yuricunha.com',
+      url: 'https://privatebin.yuricunha.com',
+      description: 'PrivateBin Privacy',
+      followRedirect: true,
+    },
+    {
+      id: 'support.yuricunha.com',
+      url: 'https://support.yuricunha.com',
+      description: 'Support Ticket',
+      followRedirect: true,
+    },
+    {
+      id: 'docs.yuricunha.com',
+      url: 'https://docs.yuricunha.com',
+      description: 'Docs from my pages/projects',
+      followRedirect: true,
+    },
+    {
+      id: 'llm.yuricunha.com',
+      url: 'https://llm.yuricunha.com',
+      description: 'UI to my LLM',
+      followRedirect: true,
+    },
+    {
+      id: 'git.yuricunha.com',
+      url: 'https://git.yuricunha.com',
+      description: 'GitTea Privacy GIT',
+      followRedirect: true,
+    },
 
 
   ],
