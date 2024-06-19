@@ -65,19 +65,19 @@ export const config: Config = {
     {
       id: 'docs.yuricunha.com',
       url: 'https://docs.yuricunha.com',
-      description: 'Docs from my pages/projects',
+      description: 'Docs',
       followRedirect: true,
     },
     {
       id: 'llm.yuricunha.com',
       url: 'https://llm.yuricunha.com',
-      description: 'UI to my LLM',
+      description: 'UI LLM',
       followRedirect: true,
     },
     {
       id: 'git.yuricunha.com',
       url: 'https://git.yuricunha.com',
-      description: 'GitTea Privacy GIT',
+      description: 'GitTea Privacy',
       followRedirect: true,
     },
 
