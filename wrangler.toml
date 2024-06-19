@@ -1,4 +1,4 @@
-account_id = "0db3c9ec1d741afb9a63eab399c77c3b"
+account_id = "c2213d59c49c3fe4a2c6d09be737889e"
 name = "cf-worker-status-page-pro"
 main = "./src/worker/index.ts"
 compatibility_flags = [ "streams_enable_constructors" ]
