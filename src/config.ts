@@ -2,7 +2,7 @@ import type { Config } from './types'
 
 export const config: Config = {
   settings: {
-    title: 'Status Page Pro',
+    title: 'Status Page / Yuri Cunha',
     url: 'https://status-page.yuricunha.com/',
     displayDays: 90,
     collectResponseTimes: true,
