@@ -17,7 +17,7 @@ export const config: Config = {
     {
       id: 'cloud.yuricunha.com',
       url: 'https://cloud.yuricunha.com',
-      description: 'Website',
+      description: 'Cloud',
       followRedirect: true,
     },
 
