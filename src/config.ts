@@ -20,6 +20,24 @@ export const config: Config = {
       description: 'Cloud',
       followRedirect: true,
     },
+    {
+      id: 'memo.yuricunha.com',
+      url: 'https://memo.yuricunha.com',
+      description: 'Memos',
+      followRedirect: true,
+    },
+    {
+      id: 'vaultwarden.yuricunha.com',
+      url: 'https://vaultwarden.yuricunha.com',
+      description: 'Password Manager',
+      followRedirect: true,
+    },
+    {
+      id: 'metube.yuricunha.com',
+      url: 'https://metube.yuricunha.com',
+      description: 'YouTube Downloader',
+      followRedirect: true,
+    },
 
 
   ],
