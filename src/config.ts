@@ -45,7 +45,7 @@ export const config: Config = {
       followRedirect: true,
     },
     {
-      id: 'ittools.yuricunha.com',
+      id: 'ittools.yuricunha.com - still online, fake negative',
       url: 'https://ittools.yuricunha.com',
       description: 'IT Tools',
       followRedirect: true,
@@ -75,7 +75,7 @@ export const config: Config = {
       followRedirect: true,
     },
     {
-      id: 'git.yuricunha.com',
+      id: 'git.yuricunha.com - offline for rebase',
       url: 'https://git.yuricunha.com',
       description: 'GitTea Privacy',
       followRedirect: true,
