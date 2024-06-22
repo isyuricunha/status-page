@@ -17,5 +17,7 @@ port = 3000
 kv_namespaces = [ { binding = "KV_STORE", id = "6c90bb2ca3d341368cc9751d6de8ba0d" } ]
 
 [env.production.triggers]
-# https://crontab.guru/#*/2_*_*_*_*
+# https://ittools.yuricunha.com/crontab-generator <- reference cron
+# https://crontab.guru/#0_*/6_*_*_* <- for reference
+# https://crontab.cronhub.io/ <- for reference
 crons = [ "0 */6 * * *" ]
