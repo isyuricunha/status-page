@@ -4,7 +4,7 @@ export const config: Config = {
   settings: {
     title: 'Status Page / Yuri Cunha',
     url: 'https://status-page.yuricunha.com/',
-    displayDays: 90,
+    displayDays: 30,
     collectResponseTimes: true,
   },
   monitors: [
