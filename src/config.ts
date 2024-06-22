@@ -45,12 +45,6 @@ export const config: Config = {
       followRedirect: true,
     },
     {
-      id: 'ittools.yuricunha.com - still online, fake negative',
-      url: 'https://ittools.yuricunha.com',
-      description: 'IT Tools',
-      followRedirect: true,
-    },
-    {
       id: 'privatebin.yuricunha.com',
       url: 'https://privatebin.yuricunha.com',
       description: 'PrivateBin Privacy',
@@ -74,13 +68,5 @@ export const config: Config = {
       description: 'UI LLM',
       followRedirect: true,
     },
-    {
-      id: 'git.yuricunha.com - offline for rebase',
-      url: 'https://git.yuricunha.com',
-      description: 'GitTea Privacy',
-      followRedirect: true,
-    },
-
-
   ],
 }
