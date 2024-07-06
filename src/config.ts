@@ -23,7 +23,13 @@ export const config: Config = {
     {
       id: 'vaultwarden.yuricunha.com',
       url: 'https://vaultwarden.yuricunha.com',
-      description: 'Password Manager',
+      description: 'Vaultwarden',
+      followRedirect: true,
+    },
+    {
+      id: 'privatebin.yuricunha.com',
+      url: 'https://privatebin.yuricunha.com',
+      description: 'PrivateBin',
       followRedirect: true,
     },
   ],
