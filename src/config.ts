@@ -32,5 +32,11 @@ export const config: Config = {
       description: 'PrivateBin',
       followRedirect: true,
     },
+    {
+      id: 'gitea.yuricunha.com',
+      url: 'https://gitea.yuricunha.com/',
+      description: 'Gitea (Git)',
+      followRedirect: true,
+    },
   ],
 }
