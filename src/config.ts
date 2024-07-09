@@ -38,5 +38,11 @@ export const config: Config = {
       description: 'Gitea (Git)',
       followRedirect: true,
     },
+    {
+      id: 'umami.yuricunha.com',
+      url: 'https://umami.yuricunha.com/',
+      description: 'Umami',
+      followRedirect: true,
+    },
   ],
 }
