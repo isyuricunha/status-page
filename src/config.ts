@@ -40,7 +40,7 @@ export const config: Config = {
     },
     {
       id: 'umami.yuricunha.com',
-      url: 'https://umami.yuricunha.com/',
+      url: 'https://umami.yuricunha.com/login',
       description: 'Umami',
       followRedirect: true,
     },
