@@ -33,18 +33,6 @@ export const config: Config = {
       followRedirect: true,
     },
     {
-      id: 'gitea.yuricunha.com',
-      url: 'https://gitea.yuricunha.com/',
-      description: 'Gitea (Git)',
-      followRedirect: true,
-    },
-    {
-      id: 'umami.yuricunha.com',
-      url: 'https://umami.yuricunha.com/login',
-      description: 'Umami',
-      followRedirect: true,
-    },
-    {
       id: 'ddgp.yuricunha.com',
       url: 'https://ddgp.yuricunha.com/login',
       description: 'DuckDuckGo Mail Panel',
