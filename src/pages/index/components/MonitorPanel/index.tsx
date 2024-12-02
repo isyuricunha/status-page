@@ -59,7 +59,7 @@ const MonitorPanel: React.FC<IMonitorPanelProps> = (props) => {
         }}
       >
         <div>
-          {allOperational ? 'All Systems Operational' : 'All systems are being migrated to new hardware; some may be offline. Please be patient.'}
+          {allOperational ? 'All Systems Operational' : 'Some systems are being migrated to new hardware; Or in maintenance. Please be patient.'}
         </div>
         {!!data.lastUpdate && (
           <div className='text-xs font-light' suppressHydrationWarning title={new Date(data.lastUpdate.time).toLocaleString()}>
