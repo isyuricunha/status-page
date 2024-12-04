@@ -38,11 +38,5 @@ export const config: Config = {
       description: 'DuckDuckGo Mail Panel',
       followRedirect: true,
     },
-    {
-      id: 'metube.yuricunha.com',
-      url: 'https://metube.yuricunha.com',
-      description: 'MeTube',
-      followRedirect: true,
-    },
   ],
 }
