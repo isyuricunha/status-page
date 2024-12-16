@@ -99,15 +99,6 @@ export default function Page() {
             Vike
           </a>
         </span>
-        <a
-          href='https://github.com/yunsii/cf-worker-status-page-pro'
-          target='_blank'
-          rel='noreferrer'
-          className='flex items-center gap-1'
-        >
-          <span className='i-ic--outline-star size-4 animate-bounce' />
-          Get your status page
-        </a>
       </footer>
     </div>
   )
