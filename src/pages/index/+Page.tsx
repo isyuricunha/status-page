@@ -96,6 +96,7 @@ export default function Page() {
       Vike
     </a>
   </span>
+  <br />
   <a
     target='_blank'
     rel='noreferrer'
