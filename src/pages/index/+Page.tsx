@@ -85,26 +85,32 @@ export default function Page() {
           search={searchValue}
         />
       </main>
-<footer className='my-4 flex justify-between items-center text-sm'>
-  <span className='flex flex-col gap-1'>
-    Powered by
-    <a href='https://workers.cloudflare.com/' target='_blank' rel='noreferrer' className='text-blue-500'>
-      Cloudflare Workers
+<footer className='my-4 text-sm'>
+  <div className='mb-2'>
+    <span>
+      Powered by
+      {' '}
+      <a href='https://workers.cloudflare.com/' target='_blank' rel='noreferrer' className='text-blue-500'>
+        Cloudflare Workers
+      </a>
+      {' '}
+      &amp;
+      {' '}
+      <a href='https://vike.dev/' target='_blank' rel='noreferrer' className='text-blue-500'>
+        Vike
+      </a>
+    </span>
+  </div>
+  <div>
+    <a
+      target='_blank'
+      rel='noreferrer'
+      className='flex items-center gap-2 text-gray-500'
+    >
+      <span className='i-ic--outline-star size-4 animate-bounce' />
+      Highly secure symmetric encryption algorithm AES-256. Located exclusively in Tier III-IV ISO27001 certified colocation data centers spread across Germany
     </a>
-    &amp;
-    <a href='https://vike.dev/' target='_blank' rel='noreferrer' className='text-blue-500'>
-      Vike
-    </a>
-  </span>
-  <br />
-  <a
-    target='_blank'
-    rel='noreferrer'
-    className='flex items-center gap-2 text-gray-500'
-  >
-    <span className='i-ic--outline-star size-4 animate-bounce' />
-    Highly secure symmetric encryption algorithm AES-256. Located exclusively in Tier III-IV ISO27001 certified colocation data centers spread across Germany
-  </a>
+  </div>
 </footer>
 
     </div>
