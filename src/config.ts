@@ -52,19 +52,19 @@ export const config: Config = {
     },
     {
       id: 'ittools.yuricunha.com',
-      url: 'https://ittools.yuricunha.com/login',
+      url: 'https://ittools.yuricunha.com/',
       description: 'It Tools for Devs',
       followRedirect: true,
     },
     {
       id: 'llm.yuricunha.com',
-      url: 'https://llm.yuricunha.com/login',
+      url: 'https://llm.yuricunha.com/',
       description: 'LLMs/IAs Hub',
       followRedirect: true,
     },
     {
       id: 'support.yuricunha.com',
-      url: 'https://support.yuricunha.com/login',
+      url: 'https://support.yuricunha.com/submit',
       description: 'Support Ticket for Clients',
       followRedirect: true,
     },
