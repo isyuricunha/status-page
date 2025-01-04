@@ -38,5 +38,35 @@ export const config: Config = {
       description: 'DuckDuckGo Mail Panel',
       followRedirect: true,
     },
+    {
+      id: 'vaultwarden.yuricunha.com',
+      url: 'https://vaultwarden.yuricunha.com/',
+      description: 'Password Vault',
+      followRedirect: true,
+    },
+    {
+      id: 'umami.yuricunha.com',
+      url: 'https://umami.yuricunha.com/login',
+      description: 'Private Focused Analytcs',
+      followRedirect: true,
+    },
+    {
+      id: 'ittools.yuricunha.com',
+      url: 'https://ittools.yuricunha.com/login',
+      description: 'It Tools for Devs',
+      followRedirect: true,
+    },
+    {
+      id: 'llm.yuricunha.com',
+      url: 'https://llm.yuricunha.com/login',
+      description: 'LLMs/IAs Hub',
+      followRedirect: true,
+    },
+    {
+      id: 'support.yuricunha.com',
+      url: 'https://support.yuricunha.com/login',
+      description: 'Support Ticket for Clients',
+      followRedirect: true,
+    },
   ],
 }

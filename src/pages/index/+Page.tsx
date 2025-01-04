@@ -105,7 +105,7 @@ export default function Page() {
           className='flex items-center gap-1'
         >
           <span className='i-ic--outline-star size-4 animate-bounce' />
-          I am currently expanding the public services available.
+          Highly secure symmetric encryption algorithm AES-256. Located exclusively in Tier III-IV ISO27001 certified colocation data centers spread across Germany
         </a>
       </footer>
     </div>
