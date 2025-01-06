@@ -57,12 +57,6 @@ export const config: Config = {
       followRedirect: true,
     },
     {
-      id: 'llm.yuricunha.com',
-      url: 'https://llm.yuricunha.com/',
-      description: 'LLMs/IAs Hub',
-      followRedirect: true,
-    },
-    {
       id: 'support.yuricunha.com',
       url: 'https://support.yuricunha.com/submit',
       description: 'Support Ticket for Clients',
