@@ -56,11 +56,11 @@ export const config: Config = {
       description: 'It Tools for Devs',
       followRedirect: true,
     },
-    {
-      id: 'support.yuricunha.com',
-      url: 'https://support.yuricunha.com/submit',
-      description: 'Support Ticket for Clients',
-      followRedirect: true,
-    },
+    // {
+    //   id: 'support.yuricunha.com',
+    //   url: 'https://support.yuricunha.com/submit',
+    //   description: 'Support Ticket for Clients',
+    //   followRedirect: true,
+    // },
   ],
 }
